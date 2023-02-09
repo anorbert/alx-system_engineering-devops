@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet vincent.staff.n
+chown betty:school *
